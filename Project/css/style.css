@@ -680,7 +680,7 @@ h3 {
 
 /* line 2, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_section_title.scss */
 .section_title h3 {
-  font-size: 46px;
+  font-size: 34px;
   font-weight: 400;
   line-height: 52px;
   color: #001D38;
@@ -1394,7 +1394,7 @@ h3 {
 
 /* line 20, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_slider.scss */
 .slider_area .single_slider {
-  height: 700px;
+  height: 550px;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -3206,6 +3206,20 @@ h3 {
   font-size: 14px;
   background: transparent;
   color: #fff;
+  margin-bottom: 15px;
+}
+
+.Estimate_area .form .input_field select {
+  width: 100%;
+  height: auto;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  border: 1px solid #667686;
+  padding: 18px 15px;
+  font-size: 14px;
+  color: #C7C7C7;
+  background: transparent;
   margin-bottom: 15px;
 }
 
@@ -5429,6 +5443,8 @@ span.ui-slider-handle.ui-corner-all.ui-state-default:focus {
 .service_area .single_service .thumb {
   overflow: hidden;
   position: relative;
+  border-radius: 3px;
+  box-shadow: 0px 0px 11px 0px #e3d7e6;
 }
 
 /* line 12, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_service.scss */
