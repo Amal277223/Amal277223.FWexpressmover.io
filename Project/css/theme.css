@@ -11,6 +11,7 @@
 @import "style.css";
 @import "custom.css";
 @import "https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css";
+@import "https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css";
 
 .color-primary {
     color: #0f5fac;

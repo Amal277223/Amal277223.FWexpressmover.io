@@ -1329,6 +1329,10 @@ h3 {
   margin-right: 50px;
 }
 
+.header-area .header-top_area .short_contact_list ul {
+  margin-bottom: 0;
+}
+
 @media (max-width: 767px) {
   /* line 353, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_header.scss */
   .header-area .header-top_area .short_contact_list ul li a {
