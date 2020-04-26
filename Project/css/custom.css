@@ -1,6 +1,26 @@
 .navbar-nav {
     flex-direction: row;
 }
+.navbar-brand {
+    padding-top: 0;
+    padding-bottom: 0;
+}
 ul.nav.navbar-nav.navbar-right li {
     padding: 0 10px;
+}
+.navmenu-mobile {
+    position: absolute;
+    right: 80px;
+    top: 15px;
+    text-align: center;
+}
+  
+@media (min-width: 768px) {
+    .logo-center {
+      position: absolute;
+      width: 100%;
+      left: 0;
+      text-align: center;
+      margin: auto;
+    }
 }
